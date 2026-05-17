@@ -105,3 +105,6 @@ Tools & Technologies Used
 Microsoft Power BI – Dashboard creation and data visualization
 Microsoft Excel – Data cleaning and preprocessing
 SQL – Data extraction and querying
+
+Screenshots / Demos
+Show what the dashboard look like :- ![Alt text](https://github.com/Prince1601/Amazon-Sales-Report/blob/main/Amazon%20Sales%20Snapshot.jpg)
